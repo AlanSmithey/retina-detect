@@ -1,5 +1,5 @@
 # retina-detect
-When script starts, it detects user's display pixel density and assign appropriated class (**retina** or **noretina**) to **body**.
+When script starts, it detects user's display pixel density and assign appropriate class (**retina** or **noretina**) to the **body**.
 
 ## How-to-use:
 
